@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MICHAEL JACKSON</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+ <div class="contenedor">
+   <h1>Michael Jackson</h1>
+   <hr>
+  <nav>
+    <a href="https://codepen.io/Ed6776/pen/qEqRyBNhttps://codepen.io/Ed6776/pen/qEqRyBN">inicio</a>
+   <a href="https://codepen.io/Ed6776/pen/QwGdzop">biografía</a>
+   <a href="https://codepen.io/Ed6776/pen/LEbxayW">discografía</a>
+    <a href="https://codepen.io/Ed6776/pen/MYbpjJb">premios</a>
+  </nav>
+<hr>
+ <img src="https://igormiranda.com.br/wp-content/uploads/2022/05/Michael-Jackson-1987-Bad-era.jpg" alt="https://igormiranda.com.br/wp-content/uploads/2022/05/Michael-Jackson-1987-Bad-era.jpg">
+ 
+  <p>
+   Michael Jackson fue un cantante, compositor y bailarín estadounidense, conocido como el “Rey del Pop”. Es considerado uno de los artistas más influyentes en la historia de la música.
+  </p>
+  
+  </div>
+  </body>
+</html>
